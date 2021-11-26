@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedIt Task" max_length="40" name="x_154623_needit_needit_task" sizeclass="2" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="NeedIt" max_length="1024" name="u_glide_list_2" reference="x_154623_needit_needit" type="glide_list"/>
+        <element attributes="encode_utf8=false" label="NeedIt" max_length="32" name="u_reference_3" reference="x_154623_needit_needit" type="reference"/>
+    </element>
+</database>
